@@ -12,7 +12,7 @@ You wash ashore an uncharted island. Your goal is to find the Goblet of Frenchay
 
 To get it you'll need to:
 1. Explore the 6×6 map to find the Dragon guarding a locked chest
-2. Defeat the Dragon — it drops a key
+2. Defeat the Dragon and it drops a key
 3. Find the chest and open it with the key to retrieve the Goblet
 4. Navigate back to the starting beach to win
 
